@@ -1,0 +1,489 @@
+{
+  "name": "deco-package-registry",
+  "version": "1.0.0",
+  "description": "Deco Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabbott/deco-packages-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabbott/deco-packages-test/issues"
+  },
+  "homepage": "https://github.com/dabbott/deco-packages-test#readme",
+  "deco": {
+    "components": [
+      {
+        "name": "Activity Indicator IOS",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "ACTIVITY INDICATOR IOS"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/ActivityIndicatorIOS.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/ActivityIndicatorIOS.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "ActivityIndicatorIOS"
+          ]
+        }
+      },
+      {
+        "name": "Date Picker IOS",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "input", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "DATE PICKER IOS"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/DatePickerIOS.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/DatePickerIOS.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "DatePickerIOS"
+          ]
+        }
+      },
+      {
+        "name": "Image",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "IMAGE"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Image.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Image.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "Image"
+          ]
+        }
+      },
+      {
+        "name": "Map View",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "MAP VIEW"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/MapView.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/MapView.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "MapView"
+          ]
+        }
+      },
+      {
+        "name": "Modal",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "MODAL"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Modal.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Modal.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "Modal",
+            "View",
+            "Text"
+          ]
+        }
+      },
+      {
+        "name": "Navigation Bar",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "NAVIGATION BAR"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/NavigationBar.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/NavigationBar.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "Navigator",
+            "View",
+            "Text",
+            "TouchableOpacity"
+          ]
+        }
+      },
+      {
+        "name": "Navigator",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "NAVIGATOR"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Navigator.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Navigator.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "Navigator",
+            "View",
+            "Text",
+            "TouchableOpacity"
+          ]
+        }
+      },
+      {
+        "name": "Picker",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "input", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "PICKER"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Picker.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Picker.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "Picker"
+          ]
+        }
+      },
+      {
+        "name": "Progress View IOS",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "PROGRESS VIEW IOS"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/ProgressViewIOS.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/ProgressViewIOS.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "ProgressViewIOS"
+          ]
+        }
+      },
+      {
+        "name": "Refresh Control",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "REFRESH CONTROL"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/RefreshControl.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/RefreshControl.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "RefreshControl"
+          ]
+        }
+      },
+      {
+        "name": "Scroll View",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "SCROLL VIEW"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/ScrollView.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/ScrollView.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "ScrollView",
+            "Text",
+            "View"
+          ]
+        }
+      },
+      {
+        "name": "Segmented Control IOS",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "input", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "SEGMENTED CONTROL IOS"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/SegmentedControlIOS.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/SegmentedControlIOS.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "SegmentedControlIOS"
+          ]
+        }
+      },
+      {
+        "name": "Switch",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "input", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "SWITCH"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Switch.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Switch.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "Switch"
+          ]
+        }
+      },
+      {
+        "name": "Text",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "TEXT"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Text.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Text.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "Text"
+          ]
+        }
+      },
+      {
+        "name": "Text Input",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "input", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "TEXT INPUT"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/TextInput.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/TextInput.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "TextInput"
+          ]
+        }
+      },
+      {
+        "name": "View",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "VIEW"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/View.jsx",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/View.jsx.deco"
+        },
+        "imports": {
+          "react-native": [
+            "View"
+          ]
+        }
+      },
+      {
+        "name": "Location Searchbox",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["location", "search", "map", "uber", "deco", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "LOCATION SEARCHBOX"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/ride-share/master/templates/LocationSearchbox.jsx",
+          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/LocationSearchbox.jsx.deco"
+        },
+        "dependencies": {
+          "deco-ride-share-demo": "*"
+        },
+        "imports": {
+          "deco-ride-share-demo": [
+            "LocationSearchbox"
+          ]
+        }
+      },
+      {
+        "name": "Location Pin",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["location pin", "map", "uber", "deco", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "LOCATION PIN"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/ride-share/master/templates/LocationPin.jsx",
+          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/LocationPin.jsx.deco"
+        },
+        "dependencies": {
+          "deco-ride-share-demo": "*"
+        },
+        "imports": {
+          "deco-ride-share-demo": [
+            "LocationPin"
+          ]
+        }
+      },
+      {
+        "name": "Toggle Button",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["toggle", "button", "uber", "deco", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "TOGGLE BUTTON"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/ride-share/master/templates/ToggleButton.jsx",
+          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/ToggleButton.jsx.deco"
+        },
+        "dependencies": {
+          "deco-ride-share-demo": "*"
+        },
+        "imports": {
+          "deco-ride-share-demo": [
+            "ToggleButton"
+          ]
+        }
+      },
+      {
+        "name": "Fullscreen Map",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["map", "uber", "deco", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "FULLSCREEN MAP"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/ride-share/master/templates/FullscreenMap.jsx",
+          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/FullscreenMap.jsx.deco"
+        },
+        "dependencies": {
+          "deco-ride-share-demo": "*"
+        },
+        "imports": {
+          "deco-ride-share-demo": [
+            "FullscreenMap"
+          ]
+        }
+      },
+      {
+        "name": "Navbar",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["navigator", "uber", "deco", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "NAVBAR"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/ride-share/master/templates/Navbar.jsx",
+          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/Navbar.jsx.deco"
+        },
+        "dependencies": {
+          "deco-ride-share-demo": "*"
+        },
+        "imports": {
+          "deco-ride-share-demo": [
+            "Navbar"
+          ]
+        }
+      },
+      {
+        "name": "React Native Navbar",
+        "publisher": "deco",
+        "schemaVersion": "0.0.1",
+        "tags": ["navigator", "ui", "react-native"],
+        "thumbnail": "https://placehold.it/100/100",
+        "description": "A React Native component",
+        "inspector": {
+          "group": "REACT NATIVE NAVBAR"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/deco-packages-test/master/navigation/react-native-navbar.js",
+          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/navigation/react-native-navbar.js.deco"
+        },
+        "dependencies": {
+          "react-native-navbar": "*"
+        },
+        "imports": {
+          "react-native-navbar": "NavigationBar"
+        }
+      }
+    ]
+  }
+}

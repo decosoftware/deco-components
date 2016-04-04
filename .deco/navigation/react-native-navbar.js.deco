@@ -1,0 +1,19 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 4,
+					"ch": 26
+				},
+				"to": {
+					"line": 4,
+					"ch": 47
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "TintColor"
+		}
+	]
+}
