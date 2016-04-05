@@ -20,7 +20,7 @@ For now, we'll review every component to make sure it works as expected in Deco.
 
 ##### What about native modules?
 
-* We plan to at least automatically run `rnpm link` after the `npm install` succeeds. Unfortunately, these components won't be able to hot reload in the simulator. Maybe there's more we can do here to make inserting native modules just as awesome as inserting pure-JS components.
+* We plan to at least automatically run `rnpm link` after the `npm install` succeeds. You'll have to reload the simulator manually in order for these components to show up though (can't hot reload binaries... yet). Maybe there's more we can do here to make inserting native modules just as awesome as inserting pure-JS components.
 
 ##### What about components that aren't JSX / React Native?
 
