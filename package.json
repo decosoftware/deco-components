@@ -23,7 +23,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-activity-indicator.png",
         "description": "A React Native component",
         "inspector": {
           "group": "ACTIVITY INDICATOR IOS"
@@ -43,7 +43,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["core", "input", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-date-picker.png",
         "description": "A React Native component",
         "inspector": {
           "group": "DATE PICKER IOS"
@@ -63,7 +63,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-image.png",
         "description": "A React Native component",
         "inspector": {
           "group": "IMAGE"
@@ -148,7 +148,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-navigator.png",
         "description": "A React Native component",
         "inspector": {
           "group": "NAVIGATOR"
@@ -171,7 +171,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["core", "input", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-picker.png",
         "description": "A React Native component",
         "inspector": {
           "group": "PICKER"
@@ -191,7 +191,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-progress-view-ios.png",
         "description": "A React Native component",
         "inspector": {
           "group": "PROGRESS VIEW IOS"
@@ -353,7 +353,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["location", "search", "map", "uber", "deco", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-location-searchbox.png",
         "description": "A React Native component",
         "inspector": {
           "group": "LOCATION SEARCHBOX"
@@ -376,7 +376,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["location pin", "map", "uber", "deco", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-location-pin.png",
         "description": "A React Native component",
         "inspector": {
           "group": "LOCATION PIN"
@@ -422,7 +422,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["map", "uber", "deco", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-fullscreen-map.png",
         "description": "A React Native component",
         "inspector": {
           "group": "FULLSCREEN MAP"
@@ -445,7 +445,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["navigator", "uber", "deco", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-navbar.png",
         "description": "A React Native component",
         "inspector": {
           "group": "NAVBAR"
@@ -468,7 +468,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["navigator", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/react-native-navbar.png",
         "description": "A React Native component",
         "inspector": {
           "group": "REACT NATIVE NAVBAR"
