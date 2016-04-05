@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dabbott/deco-packages-test.git"
+    "url": "git+https://github.com/decosoftware/deco-components.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dabbott/deco-packages-test/issues"
+    "url": "https://github.com/decosoftware/deco-components/issues"
   },
-  "homepage": "https://github.com/dabbott/deco-packages-test#readme",
+  "homepage": "https://github.com/decosoftware/deco-components#readme",
   "deco": {
     "components": [
       {
@@ -29,8 +29,8 @@
           "group": "ACTIVITY INDICATOR IOS"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/ActivityIndicatorIOS.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/ActivityIndicatorIOS.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/ActivityIndicatorIOS.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/ActivityIndicatorIOS.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -49,8 +49,8 @@
           "group": "DATE PICKER IOS"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/DatePickerIOS.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/DatePickerIOS.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/DatePickerIOS.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/DatePickerIOS.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -69,8 +69,8 @@
           "group": "IMAGE"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Image.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Image.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/Image.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/Image.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -89,8 +89,8 @@
           "group": "MAP VIEW"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/MapView.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/MapView.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/MapView.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/MapView.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -109,8 +109,8 @@
           "group": "MODAL"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Modal.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Modal.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/Modal.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/Modal.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -131,8 +131,8 @@
           "group": "NAVIGATION BAR"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/NavigationBar.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/NavigationBar.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/NavigationBar.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/NavigationBar.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -154,8 +154,8 @@
           "group": "NAVIGATOR"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Navigator.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Navigator.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/Navigator.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/Navigator.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -177,8 +177,8 @@
           "group": "PICKER"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Picker.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Picker.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/Picker.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/Picker.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -197,8 +197,8 @@
           "group": "PROGRESS VIEW IOS"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/ProgressViewIOS.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/ProgressViewIOS.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/ProgressViewIOS.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/ProgressViewIOS.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -217,8 +217,8 @@
           "group": "REFRESH CONTROL"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/RefreshControl.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/RefreshControl.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/RefreshControl.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/RefreshControl.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -237,8 +237,8 @@
           "group": "SCROLL VIEW"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/ScrollView.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/ScrollView.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/ScrollView.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/ScrollView.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -259,8 +259,8 @@
           "group": "SEGMENTED CONTROL IOS"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/SegmentedControlIOS.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/SegmentedControlIOS.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/SegmentedControlIOS.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/SegmentedControlIOS.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -279,8 +279,8 @@
           "group": "SWITCH"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Switch.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Switch.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/Switch.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/Switch.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -299,8 +299,8 @@
           "group": "TEXT"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/Text.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/Text.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/Text.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/Text.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -319,8 +319,8 @@
           "group": "TEXT INPUT"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/TextInput.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/TextInput.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/TextInput.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/TextInput.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -339,8 +339,8 @@
           "group": "VIEW"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/core/View.jsx",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/core/View.jsx.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/core/View.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/View.jsx.deco"
         },
         "imports": {
           "react-native": [
@@ -474,8 +474,8 @@
           "group": "REACT NATIVE NAVBAR"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/deco-packages-test/master/navigation/react-native-navbar.js",
-          "metadata": "https://rawgit.com/dabbott/deco-packages-test/master/.deco/navigation/react-native-navbar.js.deco"
+          "text": "https://rawgit.com/decosoftware/deco-components/master/navigation/react-native-navbar.js",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/navigation/react-native-navbar.js.deco"
         },
         "dependencies": {
           "react-native-navbar": "*"
