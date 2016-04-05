@@ -24,7 +24,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-activity-indicator.png",
-        "description": "A React Native component",
+        "description": "An animated progress or activity indicator.",
         "inspector": {
           "group": "ACTIVITY INDICATOR IOS"
         },
@@ -44,7 +44,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "input", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-date-picker.png",
-        "description": "A React Native component",
+        "description": "An input field for choosing a date.",
         "inspector": {
           "group": "DATE PICKER IOS"
         },
@@ -64,7 +64,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-image.png",
-        "description": "A React Native component",
+        "description": "Display an image, either from a remote URI or bundled as a static asset.",
         "inspector": {
           "group": "IMAGE"
         },
@@ -84,7 +84,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "Display a native map with optional annotations and overlays.",
         "inspector": {
           "group": "MAP VIEW"
         },
@@ -104,7 +104,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "Display content in a view which overlays the entire app.",
         "inspector": {
           "group": "MODAL"
         },
@@ -126,7 +126,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "A navigation bar - for use within the core Navigator component.",
         "inspector": {
           "group": "NAVIGATION BAR"
         },
@@ -149,7 +149,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-navigator.png",
-        "description": "A React Native component",
+        "description": "Maintains a stack of scenes - similar to a router.",
         "inspector": {
           "group": "NAVIGATOR"
         },
@@ -172,7 +172,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "input", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-picker.png",
-        "description": "A React Native component",
+        "description": "An input field for choosing one option from a list. Also see: Segmented Control.",
         "inspector": {
           "group": "PICKER"
         },
@@ -192,7 +192,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-progress-view-ios.png",
-        "description": "A React Native component",
+        "description": "A progress bar, to display progress from 0 to 100. If total progress is not known, consider an ActivityIndicator.",
         "inspector": {
           "group": "PROGRESS VIEW IOS"
         },
@@ -212,7 +212,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "A spinner for use in a ScrollView, useful for pull-to-refresh.",
         "inspector": {
           "group": "REFRESH CONTROL"
         },
@@ -232,7 +232,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "Shows scrollable content within. Scrolls vertically, horizontally, or both.",
         "inspector": {
           "group": "SCROLL VIEW"
         },
@@ -254,7 +254,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "input", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "An input field for choosing an option from a list. Also see: Picker.",
         "inspector": {
           "group": "SEGMENTED CONTROL IOS"
         },
@@ -274,7 +274,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "input", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "An input field for choosing 'on' or 'off'.",
         "inspector": {
           "group": "SWITCH"
         },
@@ -294,7 +294,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "Display text.",
         "inspector": {
           "group": "TEXT"
         },
@@ -314,7 +314,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "input", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "An input field for entering text. Can be single-line or multi-line.",
         "inspector": {
           "group": "TEXT INPUT"
         },
@@ -334,7 +334,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "One view to rule them all.",
         "inspector": {
           "group": "VIEW"
         },
@@ -354,7 +354,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["location", "search", "map", "uber", "deco", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-location-searchbox.png",
-        "description": "A React Native component",
+        "description": "From the Deco Uber Demo: a searchbox for location-choosing.",
         "inspector": {
           "group": "LOCATION SEARCHBOX"
         },
@@ -377,7 +377,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["location pin", "map", "uber", "deco", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-location-pin.png",
-        "description": "A React Native component",
+        "description": "From the Deco Uber Demo: an absolute-positioned marker with optional text.",
         "inspector": {
           "group": "LOCATION PIN"
         },
@@ -400,7 +400,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["toggle", "button", "uber", "deco", "ui", "react-native"],
         "thumbnail": "https://placehold.it/100/100",
-        "description": "A React Native component",
+        "description": "From the Deco Uber Demo: an input field for choosing an option from a list.",
         "inspector": {
           "group": "TOGGLE BUTTON"
         },
@@ -423,7 +423,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["map", "uber", "deco", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-fullscreen-map.png",
-        "description": "A React Native component",
+        "description": "From the Deco Uber Demo: simple wrapper around the Map View. Supports the same API, and a few new props.",
         "inspector": {
           "group": "FULLSCREEN MAP"
         },
@@ -446,7 +446,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["navigator", "uber", "deco", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-navbar.png",
-        "description": "A React Native component",
+        "description": "From the Deco Uber Demo: a dead-simple Navigation Bar. No buttons. Seriously.",
         "inspector": {
           "group": "NAVBAR"
         },
@@ -469,7 +469,7 @@
         "schemaVersion": "0.0.1",
         "tags": ["navigator", "ui", "react-native"],
         "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/react-native-navbar.png",
-        "description": "A React Native component",
+        "description": "A highly customizable Navigation Bar from react-native-fellowship/react-native-navbar.",
         "inspector": {
           "group": "REACT NATIVE NAVBAR"
         },
