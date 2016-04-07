@@ -12,7 +12,8 @@
 				}
 			},
 			"type": "number",
-			"name": "Width"
+			"name": "Width",
+			"max": 600
 		},
 		{
 			"range": {
@@ -26,7 +27,8 @@
 				}
 			},
 			"type": "number",
-			"name": "Height"
+			"name": "Height",
+			"max": 600
 		},
 		{
 			"range": {
