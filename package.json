@@ -399,21 +399,22 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["toggle", "button", "uber", "deco", "ui", "react-native"],
-        "thumbnail": "https://placehold.it/100/100",
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-toggle.png",
         "description": "From the Deco Uber Demo: an input field for choosing an option from a list.",
         "inspector": {
           "group": "TOGGLE BUTTON"
         },
         "template": {
-          "text": "https://rawgit.com/dabbott/ride-share/master/templates/ToggleButton.jsx",
-          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/ToggleButton.jsx.deco"
+          "text": "https://rawgit.com/dabbott/ride-share/74c55a13a083d86f2fba18e8dbd4189e9b4b390c/templates/Toggle.jsx",
+          "metadata": "https://rawgit.com/dabbott/ride-share/74c55a13a083d86f2fba18e8dbd4189e9b4b390c/.deco/templates/Toggle.jsx.deco"
         },
         "dependencies": {
-          "deco-ride-share-demo": "*"
+          "deco-ride-share-demo": "^1.1.0"
         },
         "imports": {
           "deco-ride-share-demo": [
-            "ToggleButton"
+            "ToggleContainer",
+            "ToggleItem"
           ]
         }
       },
