@@ -1,0 +1,20 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 2,
+					"ch": 17
+				},
+				"to": {
+					"line": 2,
+					"ch": 19
+				}
+			},
+			"type": "number",
+			"name": "ActiveOpacity",
+			"min": 0,
+			"max": 100
+		}
+	]
+}
