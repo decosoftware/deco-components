@@ -57,6 +57,21 @@
 			"editWith": "inputField",
 			"type": "string",
 			"name": "Placeholder"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 8,
+					"ch": 24
+				},
+				"to": {
+					"line": 8,
+					"ch": 45
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "PlaceholderTextColor"
 		}
 	]
 }
