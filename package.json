@@ -514,6 +514,37 @@
         "imports": {
           "react-native-navbar": "NavigationBar"
         }
+      },
+      {
+        "name": "Value Store",
+        "publisher": "deco",
+        "schemaVersion": "0.0.2",
+        "tags": [
+          "core",
+          "persistence",
+          "storage",
+          "AsyncStorage",
+          "ui",
+          "react-native"
+        ],
+        "description": "A simple wrapper for storing a value in AsyncStorage",
+        "inspector": {
+          "group": "VALUE STORE"
+        },
+        "template": {
+          "text": "https://rawgit.com/dabbott/react-native-value-store/9b77cea5b32c24338229a2d3574e77ee90085573/templates/ValueStore.js",
+          "metadata": "https://rawgit.com/dabbott/react-native-value-store/9b77cea5b32c24338229a2d3574e77ee90085573/.deco/templates/ValueStore.js.deco"
+        },
+        "dependencies": {
+          "react-native-value-store": "^0.1.0"
+        },
+        "imports": {
+          "react-native-value-store": "ValueStore",
+          "react-native": [
+            "Text",
+            "TouchableOpacity"
+          ]
+        }
       }
     ]
   }
