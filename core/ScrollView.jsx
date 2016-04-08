@@ -10,9 +10,9 @@
     style={{backgroundColor: "rgba(74,144,226,1)", height: 300,}}
     contentOffset={{x: 0, y: 0}}
     pagingEnabled={false}>
-    {[1,2,3,4,5].map((i) => {
+    {[1,2,3,4,5].map((item, i) => {
       return <View key={i} style={{flex: 1, alignItems: 'center', margin: 10,}}>
-        <Text>Row {i}</Text>
+        <Text>{item}</Text>
       </View>
     })}
   </ScrollView>
