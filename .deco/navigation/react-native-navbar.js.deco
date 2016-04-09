@@ -3,17 +3,62 @@
 		{
 			"range": {
 				"from": {
-					"line": 4,
-					"ch": 26
+					"line": 1,
+					"ch": 18
 				},
 				"to": {
-					"line": 4,
-					"ch": 47
+					"line": 1,
+					"ch": 25
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Title"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 1,
+					"ch": 38
+				},
+				"to": {
+					"line": 1,
+					"ch": 45
 				}
 			},
 			"editWith": "colorPicker",
 			"type": "string",
-			"name": "TintColor"
+			"name": "Title Color"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 4,
+					"ch": 28
+				},
+				"to": {
+					"line": 4,
+					"ch": 35
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Background Color"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 5,
+					"ch": 26
+				},
+				"to": {
+					"line": 5,
+					"ch": 33
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Status Bar Color"
 		}
 	]
 }
