@@ -1,5 +1,6 @@
 <NavigationBar
-  title={{ title: 'Title', }}
+  title={{ title: 'Title', tintColor: 'black', }}
   leftButton={{ title: 'Back', }}
   rightButton={{ title: 'Forward', }}
-  statusBar={{ tintColor: "rgba(255,255,255,1)", }} />
+  style={{ backgroundColor: "white", }}
+  statusBar={{ tintColor: "white", }} />
