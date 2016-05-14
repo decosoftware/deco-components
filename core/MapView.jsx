@@ -5,4 +5,5 @@
   }}
   onRegionChange={() => {}}
   onRegionChangeComplete={() => {}}
-  showUserLocation={true} />
+  showUserLocation={true}
+/>

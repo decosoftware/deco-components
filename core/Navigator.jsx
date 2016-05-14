@@ -18,4 +18,5 @@
         <Text>My Scene</Text>
       </View>
     )
-  }} />
+  }}
+/>

@@ -18,4 +18,5 @@
     Title: (route, navigator, index, navState) => {
       return <Text>{route.title}</Text>
     },
-  }} />
+  }}
+/>

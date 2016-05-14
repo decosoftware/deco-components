@@ -5,4 +5,5 @@
   }}
   animating={true}
   size={'small'}
-  color={'black'} />
+  color={'black'}
+/>

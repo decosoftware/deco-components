@@ -4,4 +4,5 @@
     this.setState({date: newDate})
   }}
   mode={'datetime'}
-  timeZoneOffsetInMinutes={-1 * new Date().getTimezoneOffset()} />
+  timeZoneOffsetInMinutes={-1 * new Date().getTimezoneOffset()}
+/>

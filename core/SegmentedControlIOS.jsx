@@ -8,7 +8,8 @@
   selectedIndex={(this.state && this.state.scIndex) || 0}
   onValueChange={(value) => {}}
   onChange={(event) => {
-    this.setState({ 
-      scIndex: event.nativeEvent.selectedSegmentIndex 
+    this.setState({
+      scIndex: event.nativeEvent.selectedSegmentIndex
     })
-  }} />
+  }}
+/>

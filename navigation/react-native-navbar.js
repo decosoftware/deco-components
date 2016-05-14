@@ -3,4 +3,5 @@
   leftButton={{ title: 'Back', }}
   rightButton={{ title: 'Forward', }}
   style={{ backgroundColor: "white", }}
-  statusBar={{ tintColor: "white", }} />
+  statusBar={{ tintColor: "white", }}
+/>

@@ -6,4 +6,5 @@
   // Color props are iOS-only
   // thumbTintColor={'white'} // Removes shadow
   tintColor={"rgba(230,230,230,1)"}
-  onTintColor={"rgba(68,219,94,1)"} />
+  onTintColor={"rgba(68,219,94,1)"}
+/>

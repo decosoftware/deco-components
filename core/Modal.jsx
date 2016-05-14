@@ -3,12 +3,12 @@
     animated={true}
     transparent={false}
     visible={(this.state && this.state.modalVisible) || true }>
-    <View 
+    <View
       style={{
-        flex: 1, 
-        backgroundColor: '#f5fcff', 
-        alignItems: 'center', 
-        justifyContent: 'center', 
+        flex: 1,
+        backgroundColor: '#f5fcff',
+        alignItems: 'center',
+        justifyContent: 'center',
         padding: 20,
       }}>
       <Text>Hello Modal</Text>
