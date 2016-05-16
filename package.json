@@ -83,6 +83,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.1",
         "tags": ["core", "ui", "react-native"],
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-map.png",
         "description": "Display a native map with optional annotations and overlays.",
         "inspector": {
           "group": "MAP VIEW"
@@ -115,51 +116,6 @@
             "Modal",
             "View",
             "Text"
-          ]
-        }
-      },
-      {
-        "name": "Navigation Bar",
-        "publisher": "deco",
-        "schemaVersion": "0.0.1",
-        "tags": ["core", "ui", "react-native"],
-        "description": "A navigation bar - for use within the core Navigator component.",
-        "inspector": {
-          "group": "NAVIGATION BAR"
-        },
-        "template": {
-          "text": "https://rawgit.com/decosoftware/deco-components/master/core/NavigationBar.jsx",
-          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/NavigationBar.jsx.deco"
-        },
-        "imports": {
-          "react-native": [
-            "Navigator",
-            "View",
-            "Text",
-            "TouchableOpacity"
-          ]
-        }
-      },
-      {
-        "name": "Navigator",
-        "publisher": "deco",
-        "schemaVersion": "0.0.1",
-        "tags": ["core", "ui", "react-native"],
-        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-navigator.png",
-        "description": "Maintains a stack of scenes - similar to a router.",
-        "inspector": {
-          "group": "NAVIGATOR"
-        },
-        "template": {
-          "text": "https://rawgit.com/decosoftware/deco-components/master/core/Navigator.jsx",
-          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/core/Navigator.jsx.deco"
-        },
-        "imports": {
-          "react-native": [
-            "Navigator",
-            "View",
-            "Text",
-            "TouchableOpacity"
           ]
         }
       },
@@ -379,52 +335,6 @@
         }
       },
       {
-        "name": "Location Searchbox",
-        "publisher": "deco",
-        "schemaVersion": "0.0.1",
-        "tags": ["location", "search", "map", "uber", "deco", "ui", "react-native"],
-        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-location-searchbox.png",
-        "description": "From the Deco Uber Demo: a searchbox for location-choosing.",
-        "inspector": {
-          "group": "LOCATION SEARCHBOX"
-        },
-        "template": {
-          "text": "https://rawgit.com/dabbott/ride-share/master/templates/LocationSearchbox.jsx",
-          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/LocationSearchbox.jsx.deco"
-        },
-        "dependencies": {
-          "deco-ride-share-demo": "*"
-        },
-        "imports": {
-          "deco-ride-share-demo": [
-            "LocationSearchbox"
-          ]
-        }
-      },
-      {
-        "name": "Location Pin",
-        "publisher": "deco",
-        "schemaVersion": "0.0.1",
-        "tags": ["location pin", "map", "uber", "deco", "ui", "react-native"],
-        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-location-pin.png",
-        "description": "From the Deco Uber Demo: an absolute-positioned marker with optional text.",
-        "inspector": {
-          "group": "LOCATION PIN"
-        },
-        "template": {
-          "text": "https://rawgit.com/dabbott/ride-share/master/templates/LocationPin.jsx",
-          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/LocationPin.jsx.deco"
-        },
-        "dependencies": {
-          "deco-ride-share-demo": "*"
-        },
-        "imports": {
-          "deco-ride-share-demo": [
-            "LocationPin"
-          ]
-        }
-      },
-      {
         "name": "Toggle Button",
         "publisher": "deco",
         "schemaVersion": "0.0.1",
@@ -445,52 +355,6 @@
           "deco-ride-share-demo": [
             "ToggleContainer",
             "ToggleItem"
-          ]
-        }
-      },
-      {
-        "name": "Fullscreen Map",
-        "publisher": "deco",
-        "schemaVersion": "0.0.1",
-        "tags": ["map", "uber", "deco", "ui", "react-native"],
-        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-fullscreen-map.png",
-        "description": "From the Deco Uber Demo: simple wrapper around the Map View. Supports the same API, and a few new props.",
-        "inspector": {
-          "group": "FULLSCREEN MAP"
-        },
-        "template": {
-          "text": "https://rawgit.com/dabbott/ride-share/master/templates/FullscreenMap.jsx",
-          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/FullscreenMap.jsx.deco"
-        },
-        "dependencies": {
-          "deco-ride-share-demo": "*"
-        },
-        "imports": {
-          "deco-ride-share-demo": [
-            "FullscreenMap"
-          ]
-        }
-      },
-      {
-        "name": "Navbar",
-        "publisher": "deco",
-        "schemaVersion": "0.0.1",
-        "tags": ["navigator", "uber", "deco", "ui", "react-native"],
-        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/deco-uber-navbar.png",
-        "description": "From the Deco Uber Demo: a dead-simple Navigation Bar. No buttons. Seriously.",
-        "inspector": {
-          "group": "NAVBAR"
-        },
-        "template": {
-          "text": "https://rawgit.com/dabbott/ride-share/master/templates/Navbar.jsx",
-          "metadata": "https://rawgit.com/dabbott/ride-share/master/.deco/templates/Navbar.jsx.deco"
-        },
-        "dependencies": {
-          "deco-ride-share-demo": "*"
-        },
-        "imports": {
-          "deco-ride-share-demo": [
-            "Navbar"
           ]
         }
       },
