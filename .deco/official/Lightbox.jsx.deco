@@ -1,0 +1,20 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 2,
+					"ch": 20
+				},
+				"to": {
+					"line": 2,
+					"ch": 23
+				}
+			},
+			"type": "number",
+			"name": "Height",
+			"max": 600,
+			"group": "IMAGE"
+		}
+	]
+}

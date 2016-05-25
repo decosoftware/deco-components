@@ -409,6 +409,35 @@
             "TouchableOpacity"
           ]
         }
+      },
+      {
+        "name": "Lightbox",
+        "publisher": "deco",
+        "schemaVersion": "0.0.2",
+        "tags": [
+          "image",
+          "gallery",
+          "ui",
+          "react-native"
+        ],
+        "thumbnail": "http://i.imgur.com/GLn3WmF.png",
+        "description": "A lightbox for full-screen image viewing, from react-native-lightbox.",
+        "inspector": {
+          "group": "LIGHTBOX"
+        },
+        "template": {
+          "text": "https://rawgit.com/decosoftware/deco-components/master/official/Lightbox.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/official/Lightbox.jsx.deco"
+        },
+        "dependencies": {
+          "react-native-lightbox": "^0.6.0"
+        },
+        "imports": {
+          "react-native-lightbox": "Lightbox",
+          "react-native": [
+            "Image"
+          ]
+        }
       }
     ]
   }
