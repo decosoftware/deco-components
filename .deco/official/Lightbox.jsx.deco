@@ -3,18 +3,32 @@
 		{
 			"range": {
 				"from": {
-					"line": 2,
-					"ch": 20
+					"line": 3,
+					"ch": 14
 				},
 				"to": {
-					"line": 2,
-					"ch": 23
+					"line": 3,
+					"ch": 17
 				}
 			},
 			"type": "number",
 			"name": "Height",
-			"max": 600,
-			"group": "IMAGE"
+			"max": 600
+		},
+		{
+			"range": {
+				"from": {
+					"line": 4,
+					"ch": 13
+				},
+				"to": {
+					"line": 4,
+					"ch": 16
+				}
+			},
+			"type": "number",
+			"name": "Width",
+			"max": 600
 		}
 	]
 }
