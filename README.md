@@ -6,7 +6,7 @@ Deco Components are templates and dependencies that can be downloaded and insert
 
 Currently, templates are snippets of JSX with associated metadata. This metadata is used to identify important properties and build up the Deco UI for quickly tweaking the component.
 
-Metadata files should not be created manually - they are created automatically in Deco as you add properties to the property panel through <kbd>⌘</kbd> + click.
+Metadata files should not be created manually - they are created automatically in Deco as you add properties to the property panel through <kbd>⌥ Option</kbd> + click.
 
 ### Contributing Components
 
