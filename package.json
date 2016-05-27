@@ -456,7 +456,7 @@
         },
         "template": {
           "text": "https://rawgit.com/decosoftware/deco-components/master/communication/GiftedMessenger.jsx",
-          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/communication/GiftedMessener.jsx.deco"
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/communication/GiftedMessenger.jsx.deco"
         },
         "dependencies": {
           "react-native-gifted-messenger": "^0.1.4"
