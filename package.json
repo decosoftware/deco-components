@@ -442,7 +442,7 @@
       {
         "name": "Gifted Messenger",
         "publisher": "deco",
-        "schemaVersion": "0.0.1",
+        "schemaVersion": "0.0.2",
         "tags": [
           "chat",
           "communication",
@@ -462,7 +462,11 @@
           "react-native-gifted-messenger": "^0.1.4"
         },
         "imports": {
-          "react-native-gifted-messenger": "GiftedMessenger"
+          "react-native-gifted-messenger": "GiftedMessenger",
+          "react-native": [
+            "View",
+            "Dimensions"
+          ]
         }
       }
     ]
