@@ -438,6 +438,36 @@
             "Image"
           ]
         }
+      },
+      {
+        "name": "Gifted Messenger",
+        "publisher": "deco",
+        "schemaVersion": "0.0.2",
+        "tags": [
+          "chat",
+          "communication",
+          "ui",
+          "react-native"
+        ],
+        "thumbnail": "https://rawgit.com/decosoftware/deco-components/master/assets/gifted-messenger.png",
+        "description": "Ready-to-use chat interface for React Native apps from FaridSafi/react-native-gifted-messenger",
+        "inspector": {
+          "group": "GIFTED MESSENGER"
+        },
+        "template": {
+          "text": "https://rawgit.com/decosoftware/deco-components/master/communication/GiftedMessenger.jsx",
+          "metadata": "https://rawgit.com/decosoftware/deco-components/master/.deco/communication/GiftedMessener.jsx.deco"
+        },
+        "dependencies": {
+          "react-native-gifted-messenger": "^0.1.4"
+        },
+        "imports": {
+          "react-native-gifted-messenger": "GiftedMessenger",
+          "react-native": [
+            "View",
+            "Dimensions"
+          ]
+        }
       }
     ]
   }

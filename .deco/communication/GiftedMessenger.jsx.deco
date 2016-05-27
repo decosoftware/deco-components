@@ -1,0 +1,119 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 11,
+					"ch": 20
+				},
+				"to": {
+					"line": 11,
+					"ch": 22
+				}
+			},
+			"type": "number",
+			"name": "MarginLeft"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 12,
+					"ch": 25
+				},
+				"to": {
+					"line": 12,
+					"ch": 34
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 15,
+					"ch": 15
+				},
+				"to": {
+					"line": 15,
+					"ch": 20
+				}
+			},
+			"type": "boolean",
+			"name": "AutoFocus"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 41,
+					"ch": 15
+				},
+				"to": {
+					"line": 41,
+					"ch": 34
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "SenderName"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 44,
+					"ch": 18
+				},
+				"to": {
+					"line": 44,
+					"ch": 22
+				}
+			},
+			"type": "boolean",
+			"name": "DisplayNames"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 46,
+					"ch": 15
+				},
+				"to": {
+					"line": 46,
+					"ch": 19
+				}
+			},
+			"type": "boolean",
+			"name": "ParseText"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 51,
+					"ch": 30
+				},
+				"to": {
+					"line": 51,
+					"ch": 35
+				}
+			},
+			"type": "boolean",
+			"name": "IsLoadingEarlierMessages"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 53,
+					"ch": 19
+				},
+				"to": {
+					"line": 53,
+					"ch": 21
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "TypingMessage"
+		}
+	]
+}
